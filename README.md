@@ -151,7 +151,7 @@ The mask data was split into two folders (Liver_mask and Tumor_mask).
 </pre>
 <b>Step 1</b><br>
 We generated  colorized masks dataset 
-(<b>Liver:blue, Tumor: red</b>) from the the original Live and Tumor masks 
+(<b>Liver:blue, Tumor: red</b>) from the the original Liver and Tumor masks 
 by combining each Liver mask with the corresponding Tumor mask into one colorized mask. 
 <br><br>
 <b>Step 2</b><br>
